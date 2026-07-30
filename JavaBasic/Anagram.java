@@ -4,7 +4,7 @@ public class Anagram {
         Scanner sc = new Scanner(System.in);
         String str1 = sc.nextLine();
         String str2 = sc.nextLine();
-        //Conversion of string
+        //Conversion of string,
         }
        
         Arrays.sort(arr1);

@@ -18,7 +18,7 @@ n /= 10;
 
 }
 
- System.out.println(temp == rev ? "Palindrome" : "Not Palindrome");
+   System.out.println(temp == rev ? "Palindrome" : "Not Palindrome");
 
 }
 
