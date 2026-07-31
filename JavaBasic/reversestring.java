@@ -10,3 +10,4 @@ public class reversestring {
     System.out.println(rev);
  }
 }
+
