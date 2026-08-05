@@ -9,8 +9,8 @@ public class Bubblesort {
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
                 }
-            } 
-        }
+            }
+            
         System.out.println("Sorted array: " + Arrays.toString(arr));
     }
 }
