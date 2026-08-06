@@ -14,7 +14,7 @@ public class npr {
         int n = sc.nextInt();
         int r = sc.nextInt();
         
-
+ 
         int fact = fact(n) / fact(n - r);
     }int npr = nfact/nmrfact;
         System.out.println(n + "P" + r + " = " + npr);
