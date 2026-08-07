@@ -13,6 +13,6 @@ public class digitsnumber {
             dig++;
         }
 
-        System.out.println(dig);
+    System.out.println(dig);
     }
 }
