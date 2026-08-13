@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "npr",
+            "request": "launch",
+            "mainClass": "npr",
+            "projectName": "JavaProgramming_c3f78d62"
+        },
+        {
+            "type": "java",
             "name": "removespaces",
             "request": "launch",
             "mainClass": "removespaces",
